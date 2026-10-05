@@ -1,0 +1,6 @@
+# Blinto SOP Library review ownership
+# Initial approval owner: Fazle Rabbi
+
+*.md @hifazlerabbi
+.github/* @hifazlerabbi
+.github/**/* @hifazlerabbi
